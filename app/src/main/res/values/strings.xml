@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Machine</string>
+    <string name="download_button_text">DOWNLOAD</string>
+    <string name="downloading_toast_text">Downloading</string>
+    <string name="play_button_text">PLAY</string>
+    <string name="pause_button_text">PAUSE</string>
+</resources>
